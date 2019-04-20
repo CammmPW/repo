@@ -1,0 +1,23 @@
+<package>
+	<id>me.cam.doubletake</id>
+	<name>DoubleTake 12</name>
+	<version>0.0.1-b1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>DoubleTake (Originally by MightnightChips, updated for iOS 12!)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release (Beta 1)</change>
+	</changelog>
+	<links></links>
+</package>
